@@ -1,11 +1,11 @@
-# CS-360-StudyHelperApp
+# CS-360-StudyHelper
 
 ### Description
 Study helper Android app created throughout CS 360 Mobile Architecture and Programming course to help learn fundamentals of Android programming using Java. The user can create their own subject areas and create questions to cycle through via button clicks. 
 
 ### What I learned
 - How to develop a user interface using Android Studio via Buttons, EditTexts, RecyclerView, TextView, ToolBar, and FrameLayout
-- Implement SQList to create a database and implement CRUD operations
+- Learned how to incorporate SQLite to create a database and implement CRUD operations
 - Fundamental functionality of Android SDK and APK 
 - How to incorpoate MVC framework in Android Application 
 
